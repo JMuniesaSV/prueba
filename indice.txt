@@ -1,3 +1,4 @@
+Añadido índice de apuntes
    > Tema 1: Introducción a Git  
    > Tema 2: Flujo de trabajo básico  
    > Tema 3: Repositorios remotos
